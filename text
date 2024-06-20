@@ -3,3 +3,8 @@ index.js file- jo hai main entry point
 
 now package.json hme index.js ko run karna hai
 to uske liye script command banate hai 
+git init
+git add .
+git branch -M main
+git remote add origin
+git push -u origin main
